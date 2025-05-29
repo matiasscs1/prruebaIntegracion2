@@ -31,3 +31,11 @@ El API Gateway actúa como el punto de entrada principal para todas las solicitu
 - ![respuesta post](/imagenes/postamn%20pruebas.png)
 - ![SOAP](/imagenes/conexion%20del%20soap.png)
 - ![BD](/imagenes/subida%20del%20post%20base.png)
+
+### apiGatawey 
+- jwt genrar para autorizar 
+- ![Genrar Jwt](/imagenes/jwt.png)
+- solisitudes por minuto 
+- 
+- jwt no auth 
+- ![Jwt no auth ](/imagenes/postamn%20no%20auth%20sin%20jwt.png)
