@@ -41,3 +41,5 @@ El API Gateway actúa como el punto de entrada principal para todas las solicitu
 - ![Jwt no auth ](/imagenes/postamn%20no%20auth%20sin%20jwt.png)
 - jwt con la api bien hecho
 - ![peticion por gatawey](/imagenes/get%20a%20la%20api%20.png)
+### soap UI
+- ![SOAP UI](/imagenes/soap.png)
